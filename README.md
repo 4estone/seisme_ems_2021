@@ -1,10 +1,11 @@
-# Visualisation séisme induit du 26/06/2021
+# Visualisation séisme induit du 04/12/2020
 
-Une forte secousse sismique a réveillé les habitants de Strasbourg ce samedi 26 juin à 5h du matin. Un tremblement de terre d'une magnitude 3,9.
-L'agglomération de Strasbourg a été réveillée par séisme ce samedi matin à 5h. Il est annoncé avec une magnitude de 3,9 sur l'échelle de Ritchter par le réseau de surveillance Renass, le site national d’information sur la sismicité de la France. 
-L’épicentre du séisme est localisé à environ au nord-ouest de Strasbourg, proche de La Wantzenau. Il a était ressenti jusqu'à Haguenau au nord, voire même dans l'Outre-Forêt, dans la vallée de la Bruche à l'ouest, et même jusque dans le sud des Vosges. Un second séisme a été enregistré cinq minutes plus tard, avec une intensité moindre (magnitude 2,3), à proximité de la commune de La Wantzenau. 
-Le plus important séisme induit de ces derniers mois dans l'agglomération strasbourgeoise
+Un séisme de magnitude 3,5, lié au développement d’un projet de centrale géothermique, a réveillé, vendredi 4 décembre, les habitants de l’agglomération de Strasbourg.
 
-Selon le Renass, il s'agit de nouveau d'un évènement induit par l'activité humaine. Le nord de l'agglomération de Strasbourg a été touché par plus d'une dizaine de secousses depuis octobre 2020. Il s'agissait à chaque fois de tremblements de terre induits, provoqués par des tests chez Fonroche Géothermie. La préfecture du Bas-Rhin a annoncé le 7 décembre dernier l'arrêt définitif du projet, mais des séismes continuent de se produire depuis.
+Le Réseau national de surveillance sismique (Rénass) a classé ce séisme survenu à 6 h 59 comme « induit », c’est-à-dire provoqué par l’activité humaine. L’épicentre du séisme se trouve à une dizaine de kilomètres au nord de Strasbourg, à proximité d’un site accueillant un projet de centrale géothermique conduit par l’entreprise Fonroche, pas encore mise en exploitation, sur les communes de Vendenheim et Reichstett.
 
-Les données ont été téléchargées sur le site du portail OpenData du Renass. Cartographie sous QGIS et visualisation web réalisée avec le Plugin Qgis2threejs visible ici.
+Sur le site, deux puits ont été creusés à 5 kilomètres de profondeur afin de pomper l’eau chaude souterraine pour en exploiter en surface le potentiel énergétique, avant de la réinjecter vers le sous-sol.
+
+Un porte-parole de Fonroche a confirmé à l’Agence France-Presse (AFP) que la secousse était bien liée à ses activités. Dans un communiqué, la société a annoncé le déclenchement d’une procédure de diminution progressive de la circulation d’eau dans les puits, vers un « arrêt total ». La procédure « se déroulera sur environ un mois », précise Fonroche.
+
+Les données ont été téléchargées sur le site du portail OpenData du Renass. Cartographie sous QGIS et visualisation web réalisée avec le Plugin Qgis2threejs.
